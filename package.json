@@ -1,0 +1,11 @@
+{
+  "name": "testapp",
+  "subdomain": "mailapplicationcraft",
+  "scripts": {
+    "start": "server"
+  },
+  "engines": {
+    "node": "0.8.x"
+  },
+  "version": "0.0.0-76"
+}
